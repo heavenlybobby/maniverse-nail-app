@@ -69,4 +69,4 @@ npm run dev
 ## 📬 Contact
 
 If you’d like to connect or have feedback:
-**Your Name** | [your.email@example.com](mailto:your.email@example.com)
+**Your Name** | [your.email@example.com](mailto:heavenlybobby34@gmail.com)
