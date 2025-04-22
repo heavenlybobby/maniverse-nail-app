@@ -41,7 +41,7 @@ const HandPreview = ({ shape, color }) => {
                       : "w-6 h-12 rounded-none"
                   } ${index === 0 ? "mt-[50px]" : ""} ${
                   index === 4 ? "mt-[115px]" : ""
-                }`}
+                } ${index === 2 ? "ml-[7px]" : ""}`}
               ></span>
             ))}
         </motion.div>
