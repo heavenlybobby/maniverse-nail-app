@@ -46,7 +46,7 @@ const App = () => {
 
           <button
             onClick={handleViewSumarry}
-            className="bg-pink-500 w-[300px] py-5 text-[20px] text-white font-bold rounded-[5px] mx-auto mt-[30px] hover:bg-pink-400"
+            className="bg-pink-500 w-[300px] py-5 text-[20px] text-white font-bold rounded-[5px] mx-auto mt-[30px] hover:bg-pink-400 mb-[20px]"
           >
             View Summary
           </button>
